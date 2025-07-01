@@ -1,4 +1,3 @@
-# odoo_methods
 # 📘 Odoo ORM Methods Reference (with Full Details)
 
 | **Method**       | **Parameters**                                  | **Parameter Syntax**                                                | **Return Type**     | **Access DB** | **Filters DB** | **Used For**                      | **Real-life Example**                                                  |
